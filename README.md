@@ -4,3 +4,5 @@ The data collected was used to construct a genetic family tree of these microbes
 The article may be viewed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3947797/).  See figure 3.
 
 I don't quite remember what each script here does, but the main two scripts are TOMMfinder.py (queries NCBI databases) and TOMMsorter.py (sifts through results of TOMMfinder).
+
+PLEASE NOTE:  the scripts were written when I was still newish to coding, as such they are difficult to read and understand. The code could be better organized and documented.
